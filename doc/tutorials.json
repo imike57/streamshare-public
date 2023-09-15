@@ -4,6 +4,16 @@
             "fr": "Test FR",
             "en": "Test EN"
         },
+        "description": "Lorem ipsum",
+        "key": "aqz-KE-bpKQ",
+        "site": "Youtube"
+    },
+    {
+        "title": {
+            "fr": "Test FR",
+            "en": "Test EN"
+        },
+        "description": "Lorem ipsum",
         "key": "aqz-KE-bpKQ",
         "site": "Youtube"
     }
